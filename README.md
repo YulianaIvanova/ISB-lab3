@@ -1,7 +1,7 @@
 # ISB-lab3
 Hybrid cryptosystem
 
-HOW TO USE(in one string):
+HOW TO USE:
 
    python main.py -gen GENERATION -symkey D:\University\ISB\isb-lab3\symmetric_key -pubkey D:\University\ISB\isb-lab3\public_key -seckey D:\University\ISB\isb-lab3\secret_key
 
